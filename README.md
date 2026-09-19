@@ -5,5 +5,9 @@
 
 目前效果在unity2020.3.49中得到验证，请使用URP10以上版本。
 
-效果如下：
+最终效果如下：
+
+<img width="321" height="485" alt="屏幕截图 2026-09-20 020349" src="https://github.com/user-attachments/assets/5b4288e8-6abb-4653-8eca-7762869479f1" />
 <img width="240" height="426" alt="9月17日(1)" src="https://github.com/user-attachments/assets/164bf3d2-1a28-480c-ad06-b47cf44d48ef" />
+
+![Uploading 屏幕截图 2026-09-20 020334.png…]()
