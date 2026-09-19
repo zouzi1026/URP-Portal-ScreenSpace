@@ -5,3 +5,6 @@
 
 目前效果在unity2020.3.49中得到验证，请使用URP10以上版本。
 
+效果如下：
+<img width="1275" height="961" alt="传送门View示意图" src="https://github.com/user-attachments/assets/5c2b9f09-eb69-4344-bf67-666a82f90515" />
+<img width="240" height="426" alt="9月17日(1)" src="https://github.com/user-attachments/assets/164bf3d2-1a28-480c-ad06-b47cf44d48ef" />
