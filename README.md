@@ -10,4 +10,5 @@
 <img width="321" height="485" alt="屏幕截图 2026-09-20 020349" src="https://github.com/user-attachments/assets/5b4288e8-6abb-4653-8eca-7762869479f1" />
 <img width="240" height="426" alt="9月17日(1)" src="https://github.com/user-attachments/assets/164bf3d2-1a28-480c-ad06-b47cf44d48ef" />
 
-![Uploading 屏幕截图 2026-09-20 020334.png…]()
+<img width="1280" height="950" alt="屏幕截图 2026-09-20 020334" src="https://github.com/user-attachments/assets/c196cf82-b461-4085-ac9d-3863d328ea0f" />
+
